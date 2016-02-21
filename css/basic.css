@@ -156,3 +156,98 @@ button,input{
 	top: -2px;
 	border: none;
 }
+.bg-word{
+	background-image: url('../images/leave.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.textarea-leave{
+	min-height: 10.25rem !important;
+}
+.text-accent1{
+	font-size: 1.35rem;
+}
+
+.margin-top20{
+	margin-top: 20px;
+}
+.margin-bottom20{
+	margin-bottom: 20px;
+}
+.margin-topBottom20{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.margin-top40{
+	margin-top: 40px;
+}
+.margin-bottom40{
+	margin-bottom: 40px;
+}
+.margin-topBottom40{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.hot-grid .row.cells3 > .cell> .row{
+	height: 180px;
+} 
+.hot-grid .row.cells3 > .cell> .row>a{
+	width: 100%;
+	height: 180px;
+	display: block;
+	position: relative;
+}
+.hot-grid .row.cells3 > .cell> .row>a>img{
+	width: 100%;
+	height: 180px;
+}
+.hot-grid .row.cells3 > .cell> .row>a>h4{
+	position: absolute;
+	width: 100%;
+	background-color: rgba(0, 32, 80, 0.75);
+	margin:0px;
+	bottom: 0px;
+	left: 0px;
+	padding: 20px;
+	color: #fff;
+}
+.hot-grid .row.cells3 > .cell> .row>a>h4:hover{
+	text-decoration: underline;
+}
+.news-cell{
+	height:367px; 
+	background-color:rgb(0,32,80);
+}
+.news-cell ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	padding-top: 15px;
+}
+.news-cell ul li{
+	-webkit-transition:all 0.2s ease-in;
+	-moz-transition:all 0.2s ease-in;
+	-ms-transition:all 0.2s ease-in;
+	-o-transition:all 0.2s ease-in;
+	transition:all 0.2s ease-in;
+}
+
+.news-cell ul li:hover{
+	background-color: rgba(255,255,255,0.1);
+}
+.news-cell ul li a{
+	font-size: 0.9rem;
+	color: #fff;
+	font-weight: bold;
+	display: block;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	margin:0px 20px;
+	border-bottom: solid 1px rgba(255,255,255,0.4);
+}
+
+.news-cell ul li a:hover{
+	text-decoration: underline;
+}

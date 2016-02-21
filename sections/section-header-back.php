@@ -1,9 +1,8 @@
-<div class="flex-grid bg-cyan">
-    <div class="row">
-        <div class="cell colspan3 align-center padding30">jhgjkhg</div>
-        <div class="cell colspan3 align-center padding30">jkhgjkh</div>
-        <div class="cell colspan3 align-center padding30">kjhgj</div>
-        <div class="cell colspan3 align-center padding30">kjhgj</div>
+<div class="flex-grid bg-cobalt">
+    <div class="row text-accent1 fg-white">
+        <div class="cell colspan4 align-center padding30"><span class="mif-shrink fg-white mif-4x"></span>&nbsp;无可比拟、专注于web开发</div>
+        <div class="cell colspan4 align-center padding30"><span class="mif-rocket fg-white mif-4x"></span>&nbsp;开源广泛、跨平台高速执行</div>
+        <div class="cell colspan4 align-center padding30"><span class="mif-power fg-white mif-4x"></span>&nbsp;简易快捷的数据、逻辑处理能力</div>
     </div>
 </div>
 <div class="bg-grayLighter programming-img">
